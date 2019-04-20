@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/imj">
+        <file>fy.png</file>
+        <file>lianjie.png</file>
+        <file>zh.png</file>
+        <file>by.png</file>
+        <file>sc.png</file>
+        <file>ts.png</file>
+        <file>ss.png</file>
+        <file>xq.png</file>
+        <file>cb.png</file>
+        <file>ck.png</file>
+        <file>xqq.png</file>
+        <file>wn.png</file>
+        <file>h.png</file>
+        <file>s.png</file>
+        <file>tuBiao.png</file>
+        <file>wenJian.png</file>
+        <file>xinJian.png</file>
+        <file>baoCun.png</file>
+        <file>linCun.png</file>
+        <file>nianTie.png</file>
+        <file>jianQie.png</file>
+        <file>a-.png</file>
+        <file>a+.png</file>
+        <file>copy.png</file>
+        <file>close.png</file>
+        <file>setup.png</file>
+        <file>soSuo.png</file>
+        <file>begin.c</file>
+    </qresource>
+</RCC>
