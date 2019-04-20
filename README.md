@@ -6,7 +6,7 @@
 /source：下有PLC编程软件的源码，代码是基于Qt框架开发的，开发环境(Qt Creator5.8 + MinGW5.3.0(32Bit) )；其中调用了ArduinoIDE开发工具，（再此感谢Arduino团队）
 
 
-/电路图：下有原理图文件，PCB图
+/PCB：下有原理图文件，PCB图
 
 
 
